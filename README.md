@@ -1,4 +1,7 @@
 # Code from programming competition
 
-In each dir you can find README with some words about
+Use: jupyter notebook.
 
+In notebook in each dir you can find some words about
+
+Сompetition is dedicated to ML 

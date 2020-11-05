@@ -2,6 +2,6 @@
 
 Use: jupyter notebook.
 
-In notebook in each dir you can find some words about
+In notebook in each dir you can find some words about.
 
-Сompetition is dedicated to ML 
+Сompetition is dedicated to ML.
